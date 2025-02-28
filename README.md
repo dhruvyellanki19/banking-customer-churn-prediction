@@ -15,6 +15,10 @@ This project builds a predictive model to help banks:
 - Understand key factors influencing churn like balance, membership status, and product usage.  
 - Improve customer retention by providing personalized offers and engagement strategies.  
 
+<p align="center">
+  <img src="https://github.com/dhruvyellanki19/project_images/blob/d1d70cea0d3640f095884f7d51545d3c0d5da85d/churn_prediction_pic.jpeg" width="500"/>
+</p>
+
 ---
 
 ## **Dataset & Features**  
