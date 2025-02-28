@@ -91,10 +91,10 @@ The **Random Forest model** showed that the following factors had the biggest im
 
 ## **Future Scope**  
 
-🔹 **Real-Time Monitoring and Alerts:** Integrate real-time data for instant churn detection and intervention.  
-🔹 **Periodic Model Updates:** Regularly retrain the model with new customer data to keep it accurate.  
-🔹 **Feature Expansion:** Add customer spending habits, service feedback, and transaction frequency to improve predictions.  
-🔹 **Advanced AI Techniques:** Use deep learning models to increase accuracy.  
+- **Real-Time Monitoring and Alerts:** Integrate real-time data for instant churn detection and intervention.  
+- **Periodic Model Updates:** Regularly retrain the model with new customer data to keep it accurate.  
+- **Feature Expansion:** Add customer spending habits, service feedback, and transaction frequency to improve predictions.  
+- **Advanced AI Techniques:** Use deep learning models to increase accuracy.  
 
 ---
 
