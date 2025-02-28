@@ -5,6 +5,10 @@ Customer churn is a big challenge for banks. Losing customers not only affects r
 
 This project uses machine learning to predict customer churn based on age, balance, credit score, tenure, number of products used, and active membership status. By identifying customers who are likely to leave, banks can **improve engagement, offer better services, and reduce churn**.  
 
+<p align="center">
+  <img src="https://github.com/dhruvyellanki19/project_images/blob/d1d70cea0d3640f095884f7d51545d3c0d5da85d/churn_prediction_pic.jpeg" width="500"/>
+</p>
+
 ---
 
 ## **Problem Statement**  
@@ -14,10 +18,6 @@ This project builds a predictive model to help banks:
 - Identify customers at risk of churning before they leave.  
 - Understand key factors influencing churn like balance, membership status, and product usage.  
 - Improve customer retention by providing personalized offers and engagement strategies.  
-
-<p align="center">
-  <img src="https://github.com/dhruvyellanki19/project_images/blob/d1d70cea0d3640f095884f7d51545d3c0d5da85d/churn_prediction_pic.jpeg" width="500"/>
-</p>
 
 ---
 
